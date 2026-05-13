@@ -18,7 +18,7 @@ Separation of concerns:
 
 ---
 
-# 🧨 crack-seer
+# 👁️ crack-seer
 
 Static security analyzer.
 
@@ -97,14 +97,14 @@ Rules:
 
 # 🔄 Workflow
 
-Project Code
-↓
-crack-seer
-↓
-SECURITY_REPORT.md
-↓
-dr-crack
-↓
-SECURITY_FIX_PLAN.md
-↓
-(Optional) AI Patch Mode
+    Project Code
+    ↓
+    crack-seer
+    ↓
+    SECURITY_REPORT.md
+    ↓
+    dr-crack
+    ↓
+    SECURITY_FIX_PLAN.md
+    ↓
+    (Optional) AI Patch Mode
